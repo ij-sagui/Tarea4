@@ -32,7 +32,7 @@ Luego, al pasar por el canal ruidoso se obtienen diferentes densidades expectral
 ![imagen 8](PDSRx2.png)
 ![imagen 9](PDSRx3.png)
 
-De estas imágenes se puede observar que la magnitud de Sxx va disminuyendo a medida que aumenta el SNR. Además, al comparar la densidad de potencia espectral antes de pasar por el canal ruidoso con la después de pasar por el canal, se puede ver un cambio significativo en las gráficas, ya que la primera muestra un comportamiento pulsante que va disminuyen paulatinamente con forma aumenta la frecuencia, en tanto la otra aumenta a un valor máximo similar a la de antes del canal para frecuencias bajas pero disminuye inmediantamente a un valor constante.
+De estas imágenes se puede observar que la magnitud de Sxx va disminuyendo a medida que aumenta el SNR. Además, al comparar la densidad de potencia espectral antes de pasar por el canal ruidoso con la después de pasar por el canal, se puede ver un cambio significativo en las gráficas, ya que la primera muestra un comportamiento pulsante que va disminuyen paulatinamente con forma aumenta la frecuencia, en tanto la otra aumenta a un valor máximo similar a la de antes del canal para frecuencias bajas pero disminuye inmediantamente a un valor constante. También se puede observar que a medida que aumenta el valor del SNR el valor Sxx casi constante de la señal ruidosa va disminuyen su magnitud.
 
 ## Punto 5
 
